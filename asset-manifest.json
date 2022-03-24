@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CZR95/survey/static/css/main.a8a97e99.chunk.css",
+    "main.js": "/CZR95/survey/static/js/main.0dba1098.chunk.js",
+    "main.js.map": "/CZR95/survey/static/js/main.0dba1098.chunk.js.map",
+    "runtime-main.js": "/CZR95/survey/static/js/runtime-main.f6cc5000.js",
+    "runtime-main.js.map": "/CZR95/survey/static/js/runtime-main.f6cc5000.js.map",
+    "static/css/2.5524535e.chunk.css": "/CZR95/survey/static/css/2.5524535e.chunk.css",
+    "static/js/2.0935f077.chunk.js": "/CZR95/survey/static/js/2.0935f077.chunk.js",
+    "static/js/2.0935f077.chunk.js.map": "/CZR95/survey/static/js/2.0935f077.chunk.js.map",
+    "index.html": "/CZR95/survey/index.html",
+    "precache-manifest.5516216e500c1011bcee5c27708c455d.js": "/CZR95/survey/precache-manifest.5516216e500c1011bcee5c27708c455d.js",
+    "service-worker.js": "/CZR95/survey/service-worker.js",
+    "static/css/2.5524535e.chunk.css.map": "/CZR95/survey/static/css/2.5524535e.chunk.css.map",
+    "static/css/main.a8a97e99.chunk.css.map": "/CZR95/survey/static/css/main.a8a97e99.chunk.css.map",
+    "static/js/2.0935f077.chunk.js.LICENSE.txt": "/CZR95/survey/static/js/2.0935f077.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6cc5000.js",
+    "static/css/2.5524535e.chunk.css",
+    "static/js/2.0935f077.chunk.js",
+    "static/css/main.a8a97e99.chunk.css",
+    "static/js/main.0dba1098.chunk.js"
+  ]
+}
